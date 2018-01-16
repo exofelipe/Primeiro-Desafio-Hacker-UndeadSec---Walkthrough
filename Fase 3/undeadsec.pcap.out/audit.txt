@@ -1,0 +1,37 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Jan 16 13:23:35 2018
+Invocation: foremost -i undeadsec.pcap -o undeadsec.pcap.out 
+Output directory: /home/felipe/Documents/undead/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/Fase 3/undeadsec.pcap.out
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: undeadsec.pcap
+Start: Tue Jan 16 13:23:35 2018
+Length: 13 MB (14238296 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00016466.jpg 	     428 KB 	    8431024 	 
+1:	00017333.jpg 	     202 KB 	    8874816 	 
+2:	00017752.jpg 	     245 KB 	    9089496 	 
+3:	00018245.jpg 	     293 KB 	    9341518 	 
+4:	00016405.gif 	      148 B 	    8399524 	  (20 x 22)
+5:	00016406.gif 	      225 B 	    8400120 	  (20 x 22)
+6:	00016407.gif 	      309 B 	    8400794 	  (20 x 22)
+7:	00016409.gif 	      229 B 	    8401551 	  (20 x 22)
+8:	00016410.gif 	      245 B 	    8402228 	  (20 x 22)
+9:	00016462.gif 	      216 B 	    8429019 	  (20 x 22)
+10:	00017748.gif 	       1 KB 	    9087074 	  (20 x 22)
+11:	00016412.htm 	      236 B 	    8403250 	 
+12:	00016414.htm 	      236 B 	    8404294 	 
+Finish: Tue Jan 16 13:23:35 2018
+
+13 FILES EXTRACTED
+	
+jpg:= 4
+gif:= 7
+htm:= 2
+------------------------------------------------------------------
+
+Foremost finished at Tue Jan 16 13:23:35 2018
