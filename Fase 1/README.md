@@ -30,7 +30,7 @@ Acessando o link chegavamos a uma conta nomeada WarTzu, com apenas um projeto, h
 
 Esse projeto por sua vez possui apenas um arquivo zip com o nome SunS3cur2.zip, podemos baixar então esse arquivo e verificar que é necessária uma senha para descompactá-lo, vamos voltar ao vídeo.
 
-Investigando o código impresso, podemos perceber que se trata do projeto EvilURL da UndeadSec (https://github.com/UndeadSec/EvilURL) mas o projeto em si não é a nossa pista, no vídeo é possível enchergar, em meio as linhas do código, algo que não pertence ao projeto:
+Investigando o código impresso, podemos perceber que se trata do projeto EvilURL da UndeadSec (https://github.com/UndeadSec/EvilURL) mas o projeto em si não é a nossa pista, no vídeo é possível enxergar, em meio as linhas do código, algo que não pertence ao projeto:
 
 ![](https://github.com/exofelipe/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/raw/master/Fase%201/video4.png)
 
@@ -45,3 +45,6 @@ Dessa forma obtemos a url para a segunda parte, outro vídeo no youtube:
 https://youtu.be/XFnPOTnwSDc
 
 O script rodando no terminal, por sua vez, não faz parte do desafio.
+
+## Fase 2
+https://github.com/exofelipe/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/tree/master/Fase%202

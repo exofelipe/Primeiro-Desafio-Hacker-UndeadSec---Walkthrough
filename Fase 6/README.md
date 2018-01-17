@@ -1,4 +1,4 @@
-#Fase 6 - FINAL
+# Fase 6 - FINAL
 
 A fase anterior nos levou a uma url na qual podíamos baixar um arquivo de áudio, thewall2.wav
 
@@ -12,7 +12,7 @@ O ESCOLHIDO - isso é uma dica que utilizaremos mais tarde
 
 Além disso havia algo estranho no início do arquivo, um ruído diferente.
 
-Abrindo o arquivo wav em um analisador espectral podiamos perceber o ruído em questão. Bem estranho considerando que o mesmo tipo de audio ja havia sido utilizado antes no desafio e não havia esse ruído.
+Abrindo o arquivo wav em um analisador espectral podiamos perceber o ruído em questão. Bem estranho considerando que o mesmo tipo de áudio ja havia sido utilizado antes no desafio e não havia esse ruído.
 
 ![](https://github.com/exofelipe/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/raw/master/Fase%206/Selection_070.png)
 

@@ -1,4 +1,4 @@
-#Fase 3 - Análise de tráfego de rede
+# Fase 3 - Análise de tráfego de rede
 
 Acessando o link tinhamos acesso ao arquivo undeadsec.pcap
 
@@ -6,7 +6,7 @@ Arquivos pcap são criados a partir de um sniffer de rede, como tcpdump ou wires
 
 Algumas estratégias utilizadas para análise do pcap:
 
-1 - Foremost
+### Foremost
 Foremost é uma ferramenta de análise forense, permite recuperar arquivos deletados do disco rígido ou recuperar arquivos inseridos dentro de binários, por exemplo.
 
 Aqui utilizaremos o foremost para extrair e reconstruir arquivos trafegados pela rede, como imagens, binários, etc.
@@ -15,7 +15,7 @@ Aqui utilizaremos o foremost para extrair e reconstruir arquivos trafegados pela
 
 Porém o resultado disso não foi muito satisfatório, foi possível reconstruir alguns pedaçõs de imagens, além de alguns ícones e htmls de uma página apache genérica. Passamos para análise do pcap com o wireshark
 
-2 - Wireshark
+### Wireshark
 Com o wireshark, que também serve para siniffar a rede, abri o arquivo e procurei por alguma pista para a próxima fase.
 
 Após filtrar as requisições http foi possível encontrar uma chamada GET baixando um script python. Encontramos nossa pista
@@ -45,3 +45,6 @@ Em poucos minutos temos a pista para a próxima fase:
 ![](https://github.com/exofelipe/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/raw/master/Fase%203/Selection_057.png)
 
 https://goo.gl/dBHBJm
+
+## Fase 4
+https://github.com/exofelipe/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/tree/master/Fase%204

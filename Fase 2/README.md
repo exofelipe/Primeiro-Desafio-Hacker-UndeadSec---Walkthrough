@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=XFnPOTnwSDc
 Observando esse vídeo duas coisas chamam a atenção:
 
 * Os escritos em chinês, provavelmente referências ao SunTzu e ao seu livro
-* O Audio do vídeo, claramente em código morse
+* O áudio do vídeo, claramente em código morse
 
 É possível interpretar código morse manualmente (trabalhoso) portanto utilizei uma ferramenta online para facilitar o trabalho (https://morsecode.scphillips.com/labs/decoder) 
 
@@ -37,3 +37,6 @@ Após alguns minutos recebemos a nossa resposta com o link para a próxima fase
 ![](https://github.com/exofelipe/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/raw/master/Fase%202/Selection_050.png)
 
 https://goo.gl/Ek8Ehj
+
+## Fase 3
+https://github.com/exofelipe/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/tree/master/Fase%203

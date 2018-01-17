@@ -1,4 +1,4 @@
-#Fase V - Análise de binário
+# Fase V - Análise de binário
 
 Ao acessar a url podiamos baixar um arquivo binário windows, nomeado Trinity.exe
 
@@ -8,7 +8,7 @@ Pelo ícone logo de cara podiamos reconhecer o binário como sendo o famoso putt
 
 Como assim? O binário tinha sido alterado. É possível verificar isso comparando os hashes MD5 ou SHA256 do binário, mas o que me chamou a atenção foi o fato de que o binário não estava assinado, ou seja, a assinatura que garante a sua integridade tinha sido corrompida ou removida.
 
-Podemos verificar, no linux, através da ferramenta osslsigncode com o comando "osslsigncode verify <nomedoarquivo>"
+Podemos verificar, no linux, através da ferramenta osslsigncode com o comando "osslsigncode verify NOME_DO_ARQUIVO"
 
 Output do putty original
 
@@ -29,3 +29,6 @@ BINGO! encontramos nossa próxima pista:
 A_MATRIX_ESTA_EM_VOCE_https://goo.gl/tm7ojX
 
 https://goo.gl/tm7ojX
+
+## Fase 6
+https://github.com/exofelipe/Primeiro-Desafio-Hacker-UndeadSec---Walkthrough/tree/master/Fase%206
