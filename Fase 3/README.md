@@ -16,7 +16,7 @@ Aqui utilizaremos o foremost para extrair e reconstruir arquivos trafegados pela
 Porém o resultado disso não foi muito satisfatório, foi possível reconstruir alguns pedaçõs de imagens, além de alguns ícones e htmls de uma página apache genérica. Passamos para análise do pcap com o wireshark
 
 ### Wireshark
-Com o wireshark, que também serve para siniffar a rede, abri o arquivo e procurei por alguma pista para a próxima fase.
+Com o wireshark abri o arquivo e procurei por alguma pista para a próxima fase.
 
 Após filtrar as requisições http foi possível encontrar uma chamada GET baixando um script python. Encontramos nossa pista
 
